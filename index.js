@@ -1,4 +1,5 @@
 // Write your code in this file!
+scuberGreetingForFeet();
 
 scuberGreetingForFeet(199);
 function scuberGreetingForFeet(something){
