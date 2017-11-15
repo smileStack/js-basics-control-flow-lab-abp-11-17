@@ -22,3 +22,7 @@ if(something === "NYC"){
   return "No go.";
 }
 }
+
+function switchOnCharmFromTip(something){
+  
+}
