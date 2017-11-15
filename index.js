@@ -1,6 +1,8 @@
 // Write your code in this file!
 
 scuberGreetingForFeet(199);
+
+
 function scuberGreetingForFeet(something){
   console.log(something);
   if(something >=2500){
