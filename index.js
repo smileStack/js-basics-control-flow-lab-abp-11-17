@@ -3,7 +3,7 @@
 scuberGreetingForFeet(199);
 function scuberGreetingForFeet(something){
   console.log(something);
-  if(something >==2500){
+  if(something >=2500){
     return 'No can do.';
   }else
   if(something <== 400){
